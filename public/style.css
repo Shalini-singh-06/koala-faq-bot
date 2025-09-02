@@ -1,0 +1,138 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;   /* clean neutral background */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.chat-container {
+  background: #fff;
+  width: 400px;
+  height: 600px;
+  border-radius: 12px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.15);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+/* Header */
+h1 {
+  text-align: center;
+  background: #d3b899;   /* beige like screenshot */
+  color: #2c2c2c;
+  padding: 15px;
+  margin: 0;
+  font-size: 16px;
+  font-weight: 600;
+  border-bottom: 1px solid #c2a987;
+}
+
+/* Chat area */
+#chat-box {
+  flex: 1;
+  padding: 15px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  background: #fafafa;
+}
+
+/* Message bubbles */
+.message {
+  max-width: 75%;
+  padding: 10px 14px;
+  border-radius: 10px;
+  display: inline-block;
+  position: relative;
+  word-wrap: break-word;
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+.message .time {
+  font-size: 0.7em;
+  color: rgba(0, 0, 0, 0.45);
+  display: block;
+  text-align: right;
+  margin-top: 4px;
+}
+
+/* User bubble */
+.message.user {
+  align-self: flex-end;
+  background: #eef3f8;   /* light grey-blue */
+  color: #111;
+  border: 1px solid #d0d7de;
+  border-radius: 12px 12px 0 12px;
+}
+
+/* Bot bubble */
+.message.bot {
+  align-self: flex-start;
+  background: #ffffff;   /* pure white bubble */
+  color: #111;
+  border: 1px solid #e0e0e0;
+  border-radius: 12px 12px 12px 0;
+}
+
+/* Input area */
+.input-area {
+  display: flex;
+  border-top: 1px solid #ccc;
+  background: #fff;
+}
+
+.input-area input {
+  flex: 1;
+  padding: 12px;
+  border: none;
+  outline: none;
+  font-size: 14px;
+  background: #f6f6f6;
+  border-radius: 0;
+}
+
+.input-area button {
+  background: #d3b899;   /* same beige as header */
+  color: #2c2c2c;
+  border: none;
+  padding: 12px 20px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.input-area button:hover {
+  background: #c2a987;
+}
+/* Typing indicator */
+.message.typing {
+  background: #ffffff;
+  border-radius: 18px 18px 18px 0;
+  color: #111;
+  padding: 8px 12px;
+  align-self: flex-start;
+}
+
+.dot {
+  height: 8px;
+  width: 8px;
+  margin: 0 2px;
+  background-color: #888;
+  border-radius: 50%;
+  display: inline-block;
+  animation: bounce 1.4s infinite;
+}
+
+.dot:nth-child(1) { animation-delay: 0s; }
+.dot:nth-child(2) { animation-delay: 0.2s; }
+.dot:nth-child(3) { animation-delay: 0.4s; }
+
+@keyframes bounce {
+  0%, 80%, 100% { transform: scale(0); }
+  40% { transform: scale(1); }
+}

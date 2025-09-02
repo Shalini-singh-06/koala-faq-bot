@@ -1,0 +1,218 @@
+[
+  {
+    "Order queries": [
+      {
+        "question": "Can I update the details of my account?",
+        "answer": "Yes, you can update the details of your account via the personal information section once logged in. You have the ability to update all your details excluding your email address. If you wish to update your email address, please contact our team directly via cs@koalaliving.com or reach out to our live chat team. Please note that changes to your account may impact your estimated delivery time, subject to availability. Additional delivery fees may also incur if delivery address is updated."
+      },
+      {
+        "question": "Can I cancel my order?",
+        "answer": "If prior to taking possession of your purchase you wish to cancel your order, you will receive a credit note for the amount of the invoice already paid, valid for 36 months. If the balance is not finalised, you may remove, or exchange items from your order to the value paid initially; however, the balance may not be reduced to less than the initial deposit you paid. Please read our Terms and Conditions for more information or contact our customer support team at cs@koalaliving.com to inquire further."
+      },
+      {
+        "question": "Can I add an item to my order?",
+        "answer": "Yes, you can. Customers can add items to their order if it has not been dispatched from our warehouse yet. The prices applied to any added items would be the active price for that product at the time of request, and there may also be further delivery charges associated with these additional products depending on their quantity or size. Please note that the estimated delivery time might be changed, subject to availability, by adding or making changes to your order."
+      },
+      {
+        "question": "Can I put my order on hold?",
+        "answer": "Yes, you certainly can put your order on hold for up to 3 months from its availability at our warehouse, given your order is paid in full within 90 days of purchase. It is the customer’s responsibility to find an alternative storage solution thereafter. Koala Living has the right to cancel your order if delivery has not been arranged past this period."
+      },
+      {
+        "question": "Can the online sales team assist me with my in-store purchase?",
+        "answer": "Yes, our online teams can definitely assist you with your in-store purchase. While our phone and live chat teams can answer most of your general inquiries related to products and lead time, our customer support team at cs@koalaliving.com can assist you with any other queries, requests or concerns."
+      },
+      {
+        "question": "The products in my order are now advertised at a new price, can I price match?",
+        "answer": "Yes, we can price match your existing order to the current advertised price during promotional periods provided that the order has not been delivered or collected and the invoice purchase date is within 60 days of the promotional period. Any excess balance in the invoice after the price match will be transferred to you in the form of a credit note with validity of 36 months (or three years) which may be used towards a new invoice. Our teams must be notified about the price match request while the new prices are active and within the time frame specified above. Throughout the year, Koala Living may take part in ‘Online only’ sales. Price matching for these orders will exclude in-store orders. Please note you cannot have more than one promotion applied to any one invoice at a time."
+      },
+      {
+        "question": "Can I have an additional discount?",
+        "answer": "Unfortunately, we do not offer additional discounts as we typically run different sales throughout the entire year. The best way to keep track of our promotions is by subscribing to our newsletter and following us on our social media platforms."
+      },
+      {
+        "question": "Do you offer trade discounts?",
+        "answer": "Yes, we offer trade discounts for industry approved businesses. Please visit our trade program page for more information and submit your interests today. Our team will get back to you within 2-5 business days."
+      },
+      {
+        "question": "I have not received my order, can I cancel it?",
+        "answer": "If prior to taking possession of your purchase you wish to cancel your order, you will receive a credit note for the amount of the invoice already paid, valid for 36 months. If the balance is not finalised, you may remove, or exchange items from your order to the value paid initially; however, the balance may not be reduced to less than the initial deposit you paid. Please read our Terms and Conditions for more information or contact our customer support team at cs@koalaliving.com to inquire further."
+      },
+      {
+        "question": "Why is my order cancelled by your system?",
+        "answer": "On very rare occasions, we may have to cancel your order and process a full refund or a store credit due to the following circumstances: A product in that order is discontinued and no longer available. The shipping fee quoted and payable by Koala Living is seen as excessive. There is an error in the price, product or the description displayed on the site or in-store. The order triggers fraud prevention protocols or. We believe that to do so is otherwise necessary or expedient."
+      }
+    ]
+  },
+  {
+    "Return and Warranty": [
+      {
+        "question": "How do I process a return for a change of mind?",
+        "answer": "Start by emailing our friendly online customer support team at cs@koalaliving.com with the invoice number, the items you wish to return, date of possession and reason for return. Please ensure the product is in original packaging and condition, and that our teams are notified within 7 days of the order being delivered. For small goods/decoratives: Depending on your postcode, we will either organise a service trip to your home, performed by our in-house logistics team, or book a courier service and email you a return label for collection. Repack your item/s in its original packaging and print your return label to stick on the box. Please note with courier collections of return items, we cannot guarantee a date and time for pick up, as we work with a network of couriers. Alternatively, you may request to drop the product off at one of our showrooms. A Return fee will apply if it is booked with a courier and this amount will be deducted from the Credit Note you will receive upon its return to us. For large and heavy goods: We will arrange a service call for our in-house logistics team to collect the furniture from your address or alternatively for our customers outside our typical delivery route, we will organise a third-party courier service and email you a return label for collection. A Return fee will apply and be deducted from the Credit Note you will receive upon its return to us. Once we’ve received your item, we will check that it is in its original condition and packaging. Thereafter, a credit note will be issued under your name, with a validity of 36 months (or three years) which can be put towards a new order. All change of mind returns are subject to a re-collection fee and this will be deducted from the total credit note issued."
+      },
+      {
+        "question": "I don’t have the packaging, can I still return the product?",
+        "answer": "If you wish to return the product due to a change of mind, the product must be in original packaging and condition. This means you have not assembled, used, damaged, laundered or washed any of the goods. This does not apply if you are seeking to return a faulty product (refer to our warranty policy )."
+      },
+      {
+        "question": "Can I exchange an item instead of returning it for a credit note?",
+        "answer": "Yes, you can exchange your product if it is the same price or greater. Please ensure the product is in original condition and packaging and returned within 7 days. A return fee and redelivery fee will apply."
+      },
+      {
+        "question": "My order is not what I expected, can I have a refund?",
+        "answer": "If the product is in its original unopened packaging; we can accept the product(s) back and issue you with a credit note as part of our Change of Mind Returns Policy within 7 days; however a 30% cancellation fee will be applied to the total of the items being returned should you opt for a refund and not a store credit. This does not apply to a return due to the goods being faulty (refer to our warranty policy )."
+      },
+      {
+        "question": "My order arrived damaged, what do I do?",
+        "answer": "For all faulty item claims, we request notify our customer support team at cs@koalaliving.com and provide us with your tax invoice number, a description of the fault(s) or damage(s) on the product, date of possession and photos/videos as evidence. We will contact you to arrange to either collect or for you to drop off the product for assessment. Please refer to our warranty policy for further details."
+      }
+    ]
+  },
+  {
+    "Delivery": [
+      {
+        "question": "How long does shipping take?",
+        "answer": "Shipping lead times of your products will depend on a number of factors, such as: Your location Our partner delivery companies’ schedules Product availability at our warehouse at the time of order. Shipping time frames differ Australia-wide. We work with a number of delivery partners and courier companies in order to deliver across the country. In some cases, this may be handed to a third-party to ensure remote areas can be accommodated. As soon as your order has arrived at our warehouse, we will notify you and you can book a delivery date yourself through the customer booking portal. You may contact our online teams via phone, live chat, or email to request an estimated arrival time frame or track your order."
+      },
+      {
+        "question": "How much is shipping?",
+        "answer": "Delivery costs will vary based on the item(s) itself, their size, weight, location of delivery address and delivery partners’ rates. The shipping fee can be determined by entering your listed products and address at checkout."
+      },
+      {
+        "question": "Do you ship outside of Australia?",
+        "answer": "Currently Koala Living does not ship outside of Australia. We reserve the right to accept or decline orders to certain locations. However, you are more than welcome to email us at cs@koalaliving.com with the location and the products you are interested in purchasing for us to check if there are any alternative delivery options for you."
+      },
+      {
+        "question": "Can you deliver to a PO Box?",
+        "answer": "Unfortunately we are unable to deliver to PO boxes as our products are often too large. This also includes Parcel Lockers, GPO, Locker Bag and RMB addresses. Our products are delivered by independent courier/delivery companies and may require a signature upon delivery."
+      },
+      {
+        "question": "Can I organise my own courier?",
+        "answer": "Unfortunately you will not be allowed to organise your own courier. You can contact cs@koalaliving.com to check if there is an alternate solution."
+      },
+      {
+        "question": "What does the standard delivery service include?",
+        "answer": "The default delivery fee quoted for online purchases includes a standard ground level drop-off only delivery service. If the order is being delivered to an apartment or building with access to a lift, the delivery fee will cover the delivery of the products inside the unit/apartment, provided there is sufficient lift and passage access for the furniture/goods. We apologise that additional services cannot be requested on the delivery day itself and are available only for areas covered by our primary 3rd party delivery teams."
+      },
+      {
+        "question": "I want to reschedule my delivery. How do I do that?",
+        "answer": "You can request to reschedule your delivery by visiting the following page with your email address and invoice number trackorder or contacting our online team via phone, live chat or email at least 72 hours prior to the confirmed delivery date. A re-delivery fee is applicable if you request changes after this time period or if the delivery fails, due to nobody being at the premises to receive the order or if the address details and/or contact details given to us were incorrect."
+      },
+      {
+        "question": "What does the deluxe delivery service include and why is it not an option for me?",
+        "answer": "Our Deluxe Delivery service includes delivery to the room of your choice as well as assembly and packaging removal. Please note, this service does not include removal of unwanted furniture nor the hanging of wall fixtures. It is the customer’s responsibility to ensure sufficient space is made prior to delivery of goods. This service will only appear for customers who live in a location where deluxe delivery is offered and it is within the category of products where the service can be offered. Please note: It is the customers responsibility to retain the original and complete packaging for requests of return for change of mind. The item must be returned to original packaging to be collected in the same manner as delivered. For large items unable to be returned to the original packaging, we will not accept these products back for return unless they are verified as incorrect, faulty or damaged on receipt of goods. We will not collect items for change of mind and return that have partial or damaged packaging, and will return them if we find they have been used, assembled or returned with missing components."
+      },
+      {
+        "question": "Can I request a specific delivery time?",
+        "answer": "Regretfully we cannot request a specific delivery time frame. Depending on the courier company associated with your order, you will either be provided a tracking link to locate the whereabouts of your order, or a confirmed delivery date and a three-four hour arrival window a day prior to your delivery."
+      },
+      {
+        "question": "What happens if I miss my delivery?",
+        "answer": "You or somebody on your behalf (over the age of 18) must be present on the day of designated delivery. If you miss it, your order will be returned back to our warehouse and you will be able to request redelivery once the items are returned to our dispatch facility (generally within 2-3 business days). Please note that a re-delivery fee is applicable in such circumstances, therefore, it is advisable to confirm a date only if you are available, or to reschedule at least 72 hours in advance if your availability changes. Please read our shipping policy for more details."
+      },
+      {
+        "question": "Do you offer express/fast dispatching?",
+        "answer": "Unfortunately we only offer standard delivery. We work with a number of courier networks and depending on your postcode, delivery will either be booked with our in-house logistics team or a third-party courier company such as Allied Express, Aramex or Couriers Please. For all orders being delivered via our internal team, you will be able to see a confirmed delivery date only under the ‘Track Order’ page in our website and will receive an estimated delivery time frame either the evening prior to or on the morning of delivery via text. If your order is being delivered by one of the third-party services, you will receive an email from the shipment company with a tracking number and a link from where you will be able to track the whereabouts of your order once the order is dispatched."
+      },
+      {
+        "question": "Do you offer installation?",
+        "answer": "Wall hanging installation is not included in this service and we would recommend you to arrange this with your local handyman. However we offer a Deluxe service that includes delivery to the room of your choice as well as assembly and packaging removal within the selected metro areas of Victoria, New South Wales, ACT, South Australia and Queensland. Please note, this service does not include removal of unwanted furniture or hanging wall fixtures. You can contact our online team to inquire if this service is available in your area and request a quotation."
+      },
+      {
+        "question": "Can I collect my order from your showroom or warehouse?",
+        "answer": "Order pick ups are unfortunately unavailable due to showroom storage limitations. We are also unable to offer warehouse collection due to OHS protocol."
+      }
+    ]
+  },
+  {
+    "Credit Note": [
+      {
+        "question": "How do I use my credit note/gift voucher?",
+        "answer": "You can redeem your credit note or voucher either at one of our showrooms or online at the checkout section. Please note that a voucher can only be used towards the purchase of a new order and cannot be applied to an existing order. They are not redeemable once expired."
+      },
+      {
+        "question": "I Have a Credit Note, can my family or friends use this or can I sell it?",
+        "answer": "Unfortunately, Credit Notes and Store Vouchers are not redeemable for Cash or Transferable. You can buy something on behalf of someone else and update the delivery address and contact number for this order to be delivered to someone else, but the name on the Invoice must remain the same as the name of the owner of the Credit/Voucher. All Vouchers are redeemable up to the expiry date."
+      }
+    ]
+  },
+  {
+    "Payment": [
+      {
+        "question": "How do I pay for my invoice?",
+        "answer": "You can pay in person by Cash or Card at any Koala Living store regardless of which store you made your original purchase from. If you have only partially paid for your order, you may make an online payment using the ‘Track Order’. Alternatively, we also offer direct bank transfer payment options to all our customers and you will find this information on your invoice under Direct Deposit Details."
+      },
+      {
+        "question": "How do I pay for my Quote?",
+        "answer": "If you have a 2 week quote you can make a full or minimum deposit (in-store only) payment. Once the Quote becomes invalid however, the system will not accept your portal payment and you will need to reach out to the store or our phone team to request a new quote to be created for you and the quote prices will reflect the new current prices if they have changed."
+      },
+      {
+        "question": "What type of cards can be used to make an online payment?",
+        "answer": "We accept Visa and Mastercard."
+      },
+      {
+        "question": "What payment plan options do you offer?",
+        "answer": "We offer Zip payment which allows customers to make interest-free purchases. Please read more about this at https://zip.co/au or from our support page under Interest Free Finance."
+      }
+    ]
+  },
+  {
+    "Uncategorized": [
+      {
+        "question": "is it possible to change details in my koala account",
+        "answer": "Yes, you can update most account details through the personal information section after logging in. However, to change your email address, you must contact customer service at cs@koalaliving.com or use the live chat. Note that changes may affect your delivery time and could incur additional fees."
+      },
+      {
+        "question": "I’d like to know the reason my order was cancelled automatically.",
+        "answer": "Your order may have been cancelled due to one of the following reasons: a product in your order was discontinued; the shipping fee was deemed excessive by Koala Living; there was an error in the price, product, or description; your order triggered fraud prevention protocols; or Koala Living deemed cancellation necessary or expedient."
+      },
+      {
+        "question": "Can you help me understand why my order was cancelled by your system?",
+        "answer": "Your order may have been automatically cancelled due to several reasons: the product was discontinued; the shipping fee was considered excessive; there was an error in pricing, product details, or description; fraud prevention protocols were triggered; or Koala Living deemed cancellation necessary."
+      },
+      {
+        "question": "Why did your system cancel my order?",
+        "answer": "Your order may have been automatically cancelled for several reasons: the product was discontinued; the shipping fee was considered excessive; there was an error in pricing, product details, or description; fraud prevention protocols were triggered; or Koala Living deemed cancellation necessary."
+      },
+      {
+        "question": "How can I edit the information associated with my account?",
+        "answer": "You can update most of your account details through the personal information section after logging in. However, to change your email address, you must contact customer service at cs@koalaliving.com or use the live chat. Note that changes may affect your delivery time and could incur additional fees."
+      }
+    ]
+  },
+  {
+    "Luxe Membership": [
+      {
+        "question": "How to become a Luxe member?",
+        "answer": "You can become a Luxe member by purchasing the Koala Living Luxe Membership. Once purchased, your membership will be valid for 2 years."
+      },
+      {
+        "question": "Luxe - membership inclusions and general info",
+        "answer": "Your Luxe Membership can be used both in-store and online. Membership is associated with your registered email address. Luxe Membership discounts can be used when an account has been created with the associated email address used at checkout at time of purchase of a membership."
+      },
+      {
+        "question": "Can I cancel my Luxe Membership at any time?",
+        "answer": "No. Luxe Membership is not transferable, redeemable for cash or refundable. By purchasing a Luxe Membership, you have agreed to our Terms & Conditions, Purchase Policy and Privacy Policy. You are opting in to receive email, mail, SMS and telephone communications. To stop receiving communications from Koala Living, you can opt out by emailing marketing@koalaliving.com."
+      },
+      {
+        "question": "How long is my Luxe Membership valid for?",
+        "answer": "Luxe Membership is valid for 2 years from date of purchase and is based on a rolling year. E.g. If you purchased on May 1 2022, it is valid until May 1 2024."
+      },
+      {
+        "question": "Exclusions where Luxe membership discounts don’t apply?",
+        "answer": "Discounts may or may not apply to selected sale items as specified in the promotion - including Clearance and Floor Stock Items."
+      }
+    ]
+  },
+  {
+    "Orders": [
+      {
+        "question": "Wants to place order",
+        "answer": "You can place an order in two ways:\nOnline: Visit our website koalaliving.com.au, add your favourite items to the cart, enter your address, and complete the payment at checkout.\nIn-store: You can visit one of our galleries (find the nearest one using our Store Locator). Our sales team will assist you, and once you’ve finalised your selection, we’ll place the order for you."
+      },
+      {
+        "question": "Pickup - is it possible to pick up item from gallery/WH",
+        "answer": "Order pick ups are unfortunately unavailable due to showroom storage limitations. We are also unable to offer warehouse collection due to OHS protocol."
+      }
+    ]
+  }
+]
