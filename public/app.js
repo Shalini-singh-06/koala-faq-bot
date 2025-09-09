@@ -50,3 +50,11 @@ async function ask() {
     console.error(err);
   }
 }
+// Allow pressing Enter to send message
+document.getElementById("question").addEventListener("keydown", function (e) {
+  if (e.key === "Enter"  && !e.shiftKey) {
+    e.preventDefault(); // prevents new line in input
+    ask();
+  }
+});
+
